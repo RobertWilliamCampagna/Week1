@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*This is the main/hero picture of the site*/
 .hero {
     height: 800px;
     width: 100%;
@@ -115,19 +115,19 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Lead Generation Symbol*/ 
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Benefit Brand Symbol*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Benefit Cost Symbol*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -160,15 +160,15 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Image for search-engine-optimization*/
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/*Image for online-reputation-management*/
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/*Image for social-media-marketing*/
 .social-media-marketing img {
     max-height: 200px;
 }
