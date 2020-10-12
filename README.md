@@ -12,7 +12,7 @@ WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 
 <p>
-<img src="https://imgur.com/a/blJj6wF" alt="Project So Far"/>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/blJj6wF"><a href="//imgur.com/blJj6wF"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="Project So Far"/>
 </p>
 
 ## Setup
