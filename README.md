@@ -12,10 +12,11 @@ WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 
 
-<img src"https://imgur.com/a/X8Vifj2">
+<img src"https://imgur.com/a/9kdCk9f" alt="project so far">
 
 
-```setup
+```setup```
+
 git clone git@github.com:RobertWilliamCampagna/Week1.git
 
-```
+
