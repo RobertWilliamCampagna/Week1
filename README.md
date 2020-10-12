@@ -12,7 +12,7 @@ WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 
 <p>
-<img src="https://imgur.com/iV1VPTJ" alt="Project So Far"/>
+<img src="https://imgur.com/iV1VPTJ"/>
 </p>
 
 ## Setup
