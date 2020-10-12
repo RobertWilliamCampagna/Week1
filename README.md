@@ -12,6 +12,8 @@ WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 
 
+<img src"https://imgur.com/a/X8Vifj2">
+
 
 ```setup
 git clone git@github.com:RobertWilliamCampagna/Week1.git
