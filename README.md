@@ -11,12 +11,17 @@ THEN they fall in sequential order<br>
 WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 
+<<<<<<< HEAD
 
 <img src"https://imgur.com/a/9kdCk9f" alt="project so far">
 
 
 ```setup```
 
+=======
+<img src="https://imgur.com/a/9kdCk9f" alt="Project so far">
+```
+>>>>>>> a045c616402564444fd19ab3c5e3fa5a2af544ab
 git clone git@github.com:RobertWilliamCampagna/Week1.git
 
 
