@@ -14,6 +14,7 @@ THEN I find a concise, descriptive title<br>
 <p>
 <img src="https://i.imgur.com/nLhBVwK.jpg"/>
   <img src="https://i.imgur.com/oDf2zrK.png"/>
+  </p>
 
 ## Setup
 ```
